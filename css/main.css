@@ -1,0 +1,30 @@
+body {
+  background-color: #fff; }
+
+.container {
+  text-align: center;
+  padding: 30px; }
+
+h1 {
+  font-size: 72px; }
+
+button {
+  font-size: 24px;
+  padding: 0 5px;
+  margin: 0 10px; }
+
+.hidden-btn {
+  display: none; }
+
+button {
+  outline: none !important; }
+
+.split-style {
+  text-align: left;
+  width: 400px;
+  margin: 15px auto;
+  width: 200px;
+  font-size: 16px; }
+
+.split-style li:nth-child(odd) {
+  background-color: #eee; }
