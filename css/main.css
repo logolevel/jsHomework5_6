@@ -1,5 +1,6 @@
 body {
-  background-color: #fff; }
+  background-color: #fff;
+  font-family: Courier, "Lucida Console", monospace; }
 
 .container {
   text-align: center;
@@ -28,3 +29,7 @@ button {
 
 .split-style li:nth-child(odd) {
   background-color: #eee; }
+
+#timer {
+  font-family: Courier, "Lucida Console", monospace;
+  font-weight: bold; }
