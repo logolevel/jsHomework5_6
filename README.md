@@ -1,5 +1,6 @@
 # jsHomework5_6
 Homework 5-6 on JavaScript - StopWatch
+<a href="https://logolevel.github.io/projects/stopwatch/index.html">Live Demo</a>
 <p>Task: https://github.com/goit-fe/markup_fe2o/tree/master/js_05-06</p>
 <ol>
 	<li>Start - начинается отсчет с нуля. При работе таймера выводим миллисекунды. Кнопка Start заменяется на Stop.</li>
